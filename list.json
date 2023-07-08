@@ -1,0 +1,10 @@
+[
+  "laravel/framework",
+  "symfony/symfony",
+  "reactphp/reactphp",
+  "phalcon/cphalcon",
+  "yiisoft/yii2",
+  "slimphp/slim",
+  "bcit-ci/codeigniter",
+  "spiral/framework"
+]
